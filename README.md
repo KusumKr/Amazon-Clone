@@ -12,5 +12,9 @@ Product Details: Detailed product pages with images, descriptions, and reviews.
 Technologies Used
 1. HTML
 2. CSS
+<br>
 
-   
+Glimpse
+<br>
+![Uploading Screenshot (105).png…]()
+
